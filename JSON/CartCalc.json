@@ -1,0 +1,15 @@
+{
+    "taxRate": 0.065,
+    "wine": [ 
+        {
+            "id": 42,
+            "product": "MD 20/20",
+            "price": 13.99      
+        },
+        {
+            "id": 24,
+            "product": "Boones Farm",
+            "price": 14.92      
+        }
+    ]
+}
